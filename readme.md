@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **ineuron home page**
+# **ineuron home page** [Live Link](https://ineuronhome-page.netlify.app/)
 >- Skills gained in this project
  >- I learned about how to use poisition in css [Relative and absolute]
  >- learned about bootstrap 
